@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 70c9c8dd98c21174eb3f0e81e523b8b3
+timeCreated: 1515792069
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Handwrite
+  fontNames:
+  - Handwrite
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
